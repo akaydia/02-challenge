@@ -9,7 +9,7 @@
 - Added a concise title
 
 - CSS selectors and properties are organized and follow a semnatic structure
-- Added CSS comments
+- Added CSS comments and table of contents
 
 ## Screenshot
 
