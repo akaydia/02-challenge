@@ -1,7 +1,7 @@
 # On-the-job Challenge 1
 
 ## Description
-- Marketing Agency hired me to refactor an existing site to make it more accessible.
+Marketing Agency hired me to refactor an existing site to make it more accessible.
 - Added semantic HTML elements
 - HTML elements follow a logical structure independent of styling and positioning
 - Added accessible alt attributes
