@@ -8,7 +8,7 @@
 - Heading attributes fall in sequential order
 - Added a concise title
 
-- CSS selectors and properties are organized and follow a semnatic structure
+- CSS selectors and properties are organized and follow a semantic structure
 - Added CSS comments and table of contents
 
 ## Screenshot
