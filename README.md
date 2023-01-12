@@ -12,5 +12,6 @@
 - Added CSS comments and table of contents
 
 ## Screenshot
+![image of website](assets/images/01-demopage.png)
 
 ## Link to Deploy
