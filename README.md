@@ -1,4 +1,4 @@
-# On-the-job Challenge 1
+# Horiseon Refactor
 
 ## Description
 Marketing Agency hired me to refactor an existing site to make it more accessible.
