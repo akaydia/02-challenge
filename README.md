@@ -15,4 +15,4 @@ Marketing Agency hired me to refactor an existing site to make it more accessibl
 ![image of website](assets/images/01-demopage.png)
 
 ## Link to Deploy
-[Website](https://akaydia.github.io/02-challenge/)
+[Website](https://akaydia.github.io/Horiseon-Refactor/)
